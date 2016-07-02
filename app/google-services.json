@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806104977954",
+    "firebase_url": "https://mi-proyecto-de-autenticacion.firebaseio.com",
+    "project_id": "mi-proyecto-de-autenticacion",
+    "storage_bucket": "mi-proyecto-de-autenticacion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806104977954:android:f4eb2ad85d6317a3",
+        "android_client_info": {
+          "package_name": "com.example.mavendano.auntenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806104977954-jpn8dl17onl63vrflaevfisrd216mq3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mavendano.auntenticacion",
+            "certificate_hash": "93192B287CBEF3ECB7A06798E0122B1AC261597E"
+          }
+        },
+        {
+          "client_id": "806104977954-r7i2l7ejlo69j2h1hm8fc9ug4ab6jhd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFSLN38kDMQHPCCbGIHguybfAfOaETzUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806104977954-r7i2l7ejlo69j2h1hm8fc9ug4ab6jhd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
